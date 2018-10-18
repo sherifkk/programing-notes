@@ -5,6 +5,9 @@ Here you can find useful notes for Programers.
 * [Collections](#Collections)
     1. [UICloud](#UICloud)
     2. [iconmonstr](#iconmonstr)
+    3. [Subtle Patterns](#Subtle-Patterns)
+* [Articles](#Articles)
+    1. [Understanding Design Patterns in JavaScript](#Understanding-Design-Patterns-in-JavaScript)
 * [Flowcharts](#flowcharts)
     1. [Retinafy](#Retinafy)
 
@@ -20,6 +23,10 @@ Here you can find useful notes for Programers.
 9. [TinyPNG](#TinyPNG)
 10. [spin.js](#spin.js)
 11. [Prism](#prism)
+12. [Zoomooz.js](#Zoomooz.js)
+13. [Can I use](#Can-I-use)
+14. [cookie.js](#cookie.js)
+15. [gauge.cofee](#gauge.cofee)
 
 ### [Ceaser](https://matthewlein.com/tools/ceaser)
 CSS EASING ANIMATION TOOL
@@ -117,6 +124,34 @@ Prism is a lightweight, extensible syntax highlighter, built with modern web sta
 Language  : 152 Languages
 Category  : Editing
 ```
+### [Zoomooz.js](http://jaukia.github.io/zoomooz/)
+Make any web page zoom.
+```
+Language  : JavaScript
+Category  : Zoom
+Platform  : Website
+```
+### [Can I use](https://caniuse.com/)
+Browser support tables for modern web technologies
+```
+Platform  : Website
+Client    : Website
+```
+### [cookie.js](https://github.com/florian/cookie.js)
+Simplifying cookies in JavaScript
+```
+Language  : JavaScript
+Category  : Cookies
+Platform  : Website
+```
+### [gauge.cofee](http://bernii.github.io/gauge.js/)
+100% native and cool looking animated JavaScript/CoffeeScript gauge.
+```
+Language  : JavaScript
+Category  : Guage
+Platform  : Website
+Client    : Website
+```
 
 ## Collections
 ### [UICloud](http://ui-cloud.com/)
@@ -130,6 +165,21 @@ Free Icons
 ```
 Category  : Icons
 Client    : Website
+```
+
+### [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
+Collection of Subtle Patterns.
+```
+Category  : Background
+Client    : Website
+```
+
+## Articles
+### [Understanding Design Patterns in JavaScript](https://code.tutsplus.com/tutorials/understanding-design-patterns-in-javascript--net-25930)
+```
+Language  : JavaScript
+Category  : Design Patterns
+Platform  : Website
 ```
 
 ## Flowcharts
