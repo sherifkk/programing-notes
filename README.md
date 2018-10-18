@@ -7,7 +7,10 @@ Here you can find useful notes for Programers.
     3. [Meteor](#Meteor)
     4. [Bootstrap](#Bootstrap)
     5. [ZURB Foundation](#ZURB-Foundation)
-
+    6. [retina.js](#retina.js)
+    7. [Sizzle](#Sizzle)
+* [Flowcharts](#flowcharts)
+    1. [Retinafy](#Retinafy)
 
 ## Useful Tools
 ### Ceaser
@@ -60,5 +63,37 @@ https://foundation.zurb.com/
 ```
 Language  : HTML, CSS
 Category  : Responsive
+Platform  : Website
+```
+
+### retina.js
+retina.js is an open source script that makes it easy to serve 
+high-resolution images to devices with retina displays<br/>
+http://imulus.github.io/retinajs/
+
+```
+Language  : JavaScript
+Category  : Images
+Platform  : Website
+```
+
+### Sizzle
+A pure-JavaScript CSS selector engine
+designed to be easily dropped in to a host library.<br/>
+https://sizzlejs.com/
+```
+Language  : JavaScript
+Category  : Selector
+Platform  : Website
+```
+
+## Flowcharts
+### Retinafy
+
+How to retinafy your website<br/>
+http://mir.aculo.us/2012/06/26/flowchart-how-to-retinafy-your-website/
+
+```
+Category  : Images
 Platform  : Website
 ```
