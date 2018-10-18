@@ -2,16 +2,6 @@
 Here you can find useful notes for Programers.
 ## Table of Contents
 * [Useful Tools](#Useful-Tools)
-     1. [Ceaser](#Ceaser)
-     2. [Super Scrollorama](#Super-Scrollorama)
-     3. [Meteor](#Meteor)
-     4. [Bootstrap](#Bootstrap)
-     5. [ZURB Foundation](#ZURB-Foundation)
-     6. [retina.js](#retina.js)
-     7. [Sizzle](#Sizzle)
-     8. [Sprite Cow](#Sprite-Cow)
-     9. [TinyPNG](#TinyPNG)
-    10. [spin.js](#spin.js)
 * [Collections](#Collections)
     1. [UICloud](#UICloud)
     2. [iconmonstr](#iconmonstr)
@@ -19,6 +9,18 @@ Here you can find useful notes for Programers.
     1. [Retinafy](#Retinafy)
 
 ## Useful Tools
+1. [Ceaser](#Ceaser) 
+2. [Super Scrollorama](#Super-Scrollorama)
+3. [Meteor](#Meteor)
+4. [Bootstrap](#Bootstrap)
+5. [ZURB Foundation](#ZURB-Foundation)
+6. [retina.js](#retina.js)
+7. [Sizzle](#Sizzle)
+8. [Sprite Cow](#Sprite-Cow)
+9. [TinyPNG](#TinyPNG)
+10. [spin.js](#spin.js)
+11. [Prism](#prism)
+
 ### [Ceaser](https://matthewlein.com/tools/ceaser)
 CSS EASING ANIMATION TOOL
 ```
@@ -30,8 +32,6 @@ Client    : Website
 
 ### [Super Scrollorama](http://johnpolacek.github.io/superscrollorama/)
 The jQuery plugin for supercool scroll animation.
-
-
 ```
 Language  : jQuery
 Category  : Animation
