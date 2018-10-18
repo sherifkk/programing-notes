@@ -6,7 +6,10 @@ Here you can find useful notes for Programers.
     1. [UICloud](#UICloud)
     2. [iconmonstr](#iconmonstr)
     3. [Subtle Patterns](#Subtle-Patterns)
+    4. [cdnjs](#cdnjs)
+    1. [JavaScript For Cats](#JavaScript-For-Cats)
 * [Articles](#Articles)
+* [Tutorials](#Tutorials)
     1. [Understanding Design Patterns in JavaScript](#Understanding-Design-Patterns-in-JavaScript)
 * [Flowcharts](#flowcharts)
     1. [Retinafy](#Retinafy)
@@ -26,7 +29,9 @@ Here you can find useful notes for Programers.
 12. [Zoomooz.js](#Zoomooz.js)
 13. [Can I use](#Can-I-use)
 14. [cookie.js](#cookie.js)
-15. [gauge.cofee](#gauge.cofee)
+15. [gauge.cofee/JustGage](#gauge.cofee/JustGage)
+16. [Date Range Picker](#Date-Range-Picker)
+17. [Underscores](#Underscores)
 
 ### [Ceaser](https://matthewlein.com/tools/ceaser)
 CSS EASING ANIMATION TOOL
@@ -144,11 +149,26 @@ Language  : JavaScript
 Category  : Cookies
 Platform  : Website
 ```
-### [gauge.cofee](http://bernii.github.io/gauge.js/)
-100% native and cool looking animated JavaScript/CoffeeScript gauge.
+### [gauge.cofee](http://bernii.github.io/gauge.js/)/[JustGage](http://justgage.com/)
+JavaScript plugin for generating and animating nice & clean gauges.
 ```
 Language  : JavaScript
 Category  : Guage
+Platform  : Website
+Client    : Website
+```
+### [Date Range Picker](http://www.daterangepicker.com/)
+A JavaScript component for choosing date ranges, dates and times.
+```
+Language  : JavaScript
+Category  : Date Picker
+Platform  : Website
+```
+### [Underscores](http://underscores.me/)
+A starter theme for wordpress
+```
+Language  : Wordpress
+Category  : Starters
 Platform  : Website
 Client    : Website
 ```
@@ -172,6 +192,20 @@ Collection of Subtle Patterns.
 ```
 Category  : Background
 Client    : Website
+```
+### [cdnjs](https://cdnjs.com/about)
+Host all the popular libraries - JavaScript, CSS, SWF, images, etc! 
+```
+Category  : Libraries
+Client    : Website
+```
+
+## Tutorials
+### [JavaScript For Cats](http://jsforcats.com/)
+An introduction for new programmers
+```
+Language  : JavaScript
+Platform  : Website
 ```
 
 ## Articles
