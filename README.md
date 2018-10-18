@@ -109,7 +109,13 @@ Language  : CSS, JavaScript
 Category  : Spinners
 Platform  : Website
 Client    : Website
+```
 
+### [Prism](https://prismjs.com/)
+Prism is a lightweight, extensible syntax highlighter, built with modern web standards in mind.
+```
+Language  : 152 Languages
+Category  : Editing
 ```
 
 ## Collections
